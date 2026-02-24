@@ -104,4 +104,4 @@ The Real-Time Collaborative Document Editor is an advanced web application that 
 
 OUTPUT:
 
-<img width="1428" height="708" alt="Image" src="https://github.com/user-attachments/assets/ea43b7f6-c4a9-4c82-9086-b1f5dfbbe30e" />
+<img width="1428" height="708" alt="Image" src="https://github.com/user-attachments/assets/edcf3caf-7853-4cf5-9f0c-ac3da14ce609" />
