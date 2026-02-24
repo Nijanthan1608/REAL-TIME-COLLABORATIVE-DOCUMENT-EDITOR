@@ -101,3 +101,7 @@ This system can be used in various real-world scenarios such as team collaborati
 Conclusion
 
 The Real-Time Collaborative Document Editor is an advanced web application that demonstrates the use of modern frontend frameworks, backend development, real-time communication, and database integration. The project improves teamwork efficiency by allowing multiple users to collaborate on documents simultaneously. It provides secure access, automatic saving, and instant synchronization, making it a powerful and practical solution for collaborative document editing. This project also helps developers gain hands-on experience in full-stack development and real-time system implementation.
+
+OUTPUT:
+
+<img width="1428" height="708" alt="Image" src="https://github.com/user-attachments/assets/ea43b7f6-c4a9-4c82-9086-b1f5dfbbe30e" />
